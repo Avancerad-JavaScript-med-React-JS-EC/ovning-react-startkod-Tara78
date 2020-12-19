@@ -1,5 +1,8 @@
 import React from 'react'
-import Footer from './Footer'
+import MyInfo from '.components/MyInfo'
+import Footer from './componets/Footer'
+
+
 
 function APP(){
     return(
@@ -18,7 +21,9 @@ function APP(){
         this is the second part
     </p>
 </main>
+<MyInfo />
 <Footer />
+
         </div>
     )
 }

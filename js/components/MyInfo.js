@@ -8,6 +8,7 @@
 // Extra challenge: learn on your own (Google!) how you can add some style to your page.
 // (We will also cover this in an upcoming lesson).
 import React from'react'; 
+import MyInfo from '/.MyInfo'; 
 
 function MyInfo(){
     return(
