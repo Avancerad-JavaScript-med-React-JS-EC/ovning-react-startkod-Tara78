@@ -5,8 +5,12 @@ function Name(){
     const name ='Tara'; 
 
         return(
-        <h2>Jag heter {name} </h2>
+
+       <button>Apple</button>
     )
+}
+function Button(){
+    return(<button>Bannan</button>)
 }
 
 

@@ -1,15 +1,10 @@
-// import React from 'react'; 
+function App(){
+    return ; 
+}
+function Button(){
+    return(<button>Apple</button>)
+}
 
 
-// function App(){
-//     return(
-//         <section>
-//             <div>
-//                 <h1>Hello</h1>
-//             </div>
-//         </section>
 
-//     )
-// }
-
-// export default App 
+export default App 
